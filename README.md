@@ -25,5 +25,16 @@ Python based slot-machine game.
 
 **Authors**
 ---
-1. Kevin Kodituwakku
+1. Kevin Kodituwakku - https://github.com/KevinYL96
+
+**Version History**
+---
+0.1 - Initial Release
+
+**Licence**
+---
+
+**Acknowledgments**
+---
+[![YouTube](http://i.ytimg.com/vi/th4OBktqK1I/hqdefault.jpg)](https://www.youtube.com/watch?v=th4OBktqK1I)
 
